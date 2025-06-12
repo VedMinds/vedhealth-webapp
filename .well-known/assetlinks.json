@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vedminds.vedhealthOrg",
+      "sha256_cert_fingerprints":
+        ["5A:EA:6C:4E:84:A6:08:9E:79:EC:A0:24:F6:06:C2:45:B2:8A:C9:29:8D:34:12:C4:D3:BC:DB:B3:67:7F:95:90"]
+    }
+  }
+]

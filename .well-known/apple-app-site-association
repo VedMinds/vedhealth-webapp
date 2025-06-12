@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TY5TZ38BSV.com.vedminds.vedhealthOrg",
+        "paths": ["*"],
+        "components": [
+        ]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": ["TY5TZ38BSV.com.vedminds.vedhealthOrg"]
+  },
+  "webcredentials": {
+    "apps": ["com.vedminds.vedhealthOrg"]
+  }
+}
