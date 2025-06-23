@@ -5,7 +5,9 @@
       "namespace": "android_app",
       "package_name": "com.vedminds.vedhealthOrg",
       "sha256_cert_fingerprints":
-        ["5A:EA:6C:4E:84:A6:08:9E:79:EC:A0:24:F6:06:C2:45:B2:8A:C9:29:8D:34:12:C4:D3:BC:DB:B3:67:7F:95:90"]
+        ["5A:EA:6C:4E:84:A6:08:9E:79:EC:A0:24:F6:06:C2:45:B2:8A:C9:29:8D:34:12:C4:D3:BC:DB:B3:67:7F:95:90",
+        "31:5C:6D:DC:9B:AF:82:23:4A:A8:1E:4D:FA:7A:F8:97:99:87:D4:86:C5:4F:43:64:0E:FC:1C:8F:5F:52:AD:22"
+        ]
     }
   }
 ]
